@@ -1,0 +1,4 @@
+1- php artisan system:migrate
+2- php artisan landlord:seed TenantsSeeder
+3- php artisan tenants:migrate
+4- php artisan tenants:seeder UserSeeder
